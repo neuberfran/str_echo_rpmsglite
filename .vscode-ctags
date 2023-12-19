@@ -1,0 +1,432 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	//
+$(VERBOSE).SILENT	armgcc/Makefile	/^$(VERBOSE).SILENT:$/;"	t
+$(VERBOSE)MAKESILENT	armgcc/Makefile	/^$(VERBOSE)MAKESILENT = -s$/;"	m
+%	armgcc/Makefile	/^% : %,v$/;"	t
+%	armgcc/Makefile	/^% : RCS\/%$/;"	t
+%	armgcc/Makefile	/^% : RCS\/%,v$/;"	t
+%	armgcc/Makefile	/^% : SCCS\/s.%$/;"	t
+%	armgcc/Makefile	/^% : s.%$/;"	t
+APP_MU_IRQ_PRIORITY	str_echo_rpmsglite.c	/^#define APP_MU_IRQ_PRIORITY /;"	d	file:
+APP_TASK_STACK_SIZE	str_echo_rpmsglite.c	/^#define APP_TASK_STACK_SIZE /;"	d	file:
+ARCHITECTURE_ID	armgcc/CMakeFiles/3.24.1/CompilerIdC/CMakeCCompilerId.c	/^#   define ARCHITECTURE_ID /;"	d	file:
+ARCHITECTURE_ID	armgcc/CMakeFiles/3.24.1/CompilerIdC/CMakeCCompilerId.c	/^#  define ARCHITECTURE_ID /;"	d	file:
+ARCHITECTURE_ID	armgcc/CMakeFiles/3.24.1/CompilerIdC/CMakeCCompilerId.c	/^#  define ARCHITECTURE_ID$/;"	d	file:
+ARCHITECTURE_ID	armgcc/CMakeFiles/3.24.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#   define ARCHITECTURE_ID /;"	d	file:
+ARCHITECTURE_ID	armgcc/CMakeFiles/3.24.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define ARCHITECTURE_ID /;"	d	file:
+ARCHITECTURE_ID	armgcc/CMakeFiles/3.24.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define ARCHITECTURE_ID$/;"	d	file:
+BOARD_MU_HANDLER	str_echo_rpmsglite.c	/^void BOARD_MU_HANDLER(void)$/;"	f	typeref:typename:void
+CMAKE_BINARY_DIR	armgcc/Makefile	/^CMAKE_BINARY_DIR = \/home\/neuberfran\/projects\/freertos-tn\/examples\/imx7d_pico_m4\/demo_apps/;"	m
+CMAKE_COMMAND	armgcc/Makefile	/^CMAKE_COMMAND = \/opt\/cmake-3.24.1\/bin\/cmake$/;"	m
+CMAKE_SOURCE_DIR	armgcc/Makefile	/^CMAKE_SOURCE_DIR = \/home\/neuberfran\/projects\/freertos-tn\/examples\/imx7d_pico_m4\/demo_apps/;"	m
+COMPILER_ID	armgcc/CMakeFiles/3.24.1/CompilerIdC/CMakeCCompilerId.c	/^# define COMPILER_ID /;"	d	file:
+COMPILER_ID	armgcc/CMakeFiles/3.24.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_ID /;"	d	file:
+COMPILER_VERSION	armgcc/CMakeFiles/3.24.1/CompilerIdC/CMakeCCompilerId.c	/^#   define COMPILER_VERSION /;"	d	file:
+COMPILER_VERSION	armgcc/CMakeFiles/3.24.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#   define COMPILER_VERSION /;"	d	file:
+COMPILER_VERSION_INTERNAL	armgcc/CMakeFiles/3.24.1/CompilerIdC/CMakeCCompilerId.c	/^#   define COMPILER_VERSION_INTERNAL /;"	d	file:
+COMPILER_VERSION_INTERNAL	armgcc/CMakeFiles/3.24.1/CompilerIdC/CMakeCCompilerId.c	/^#  define COMPILER_VERSION_INTERNAL /;"	d	file:
+COMPILER_VERSION_INTERNAL	armgcc/CMakeFiles/3.24.1/CompilerIdC/CMakeCCompilerId.c	/^# define COMPILER_VERSION_INTERNAL /;"	d	file:
+COMPILER_VERSION_INTERNAL	armgcc/CMakeFiles/3.24.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#   define COMPILER_VERSION_INTERNAL /;"	d	file:
+COMPILER_VERSION_INTERNAL	armgcc/CMakeFiles/3.24.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define COMPILER_VERSION_INTERNAL /;"	d	file:
+COMPILER_VERSION_INTERNAL	armgcc/CMakeFiles/3.24.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_VERSION_INTERNAL /;"	d	file:
+COMPILER_VERSION_INTERNAL_STR	armgcc/CMakeFiles/3.24.1/CompilerIdC/CMakeCCompilerId.c	/^# define COMPILER_VERSION_INTERNAL_STR /;"	d	file:
+COMPILER_VERSION_INTERNAL_STR	armgcc/CMakeFiles/3.24.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_VERSION_INTERNAL_STR /;"	d	file:
+COMPILER_VERSION_MAJOR	armgcc/CMakeFiles/3.24.1/CompilerIdC/CMakeCCompilerId.c	/^  # define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MAJOR	armgcc/CMakeFiles/3.24.1/CompilerIdC/CMakeCCompilerId.c	/^#   define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MAJOR	armgcc/CMakeFiles/3.24.1/CompilerIdC/CMakeCCompilerId.c	/^#  define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MAJOR	armgcc/CMakeFiles/3.24.1/CompilerIdC/CMakeCCompilerId.c	/^# define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MAJOR	armgcc/CMakeFiles/3.24.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^  # define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MAJOR	armgcc/CMakeFiles/3.24.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#   define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MAJOR	armgcc/CMakeFiles/3.24.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MAJOR	armgcc/CMakeFiles/3.24.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MINOR	armgcc/CMakeFiles/3.24.1/CompilerIdC/CMakeCCompilerId.c	/^  # define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_MINOR	armgcc/CMakeFiles/3.24.1/CompilerIdC/CMakeCCompilerId.c	/^#   define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_MINOR	armgcc/CMakeFiles/3.24.1/CompilerIdC/CMakeCCompilerId.c	/^#  define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_MINOR	armgcc/CMakeFiles/3.24.1/CompilerIdC/CMakeCCompilerId.c	/^# define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_MINOR	armgcc/CMakeFiles/3.24.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^  # define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_MINOR	armgcc/CMakeFiles/3.24.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#   define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_MINOR	armgcc/CMakeFiles/3.24.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_MINOR	armgcc/CMakeFiles/3.24.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_PATCH	armgcc/CMakeFiles/3.24.1/CompilerIdC/CMakeCCompilerId.c	/^  # define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	armgcc/CMakeFiles/3.24.1/CompilerIdC/CMakeCCompilerId.c	/^#   define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	armgcc/CMakeFiles/3.24.1/CompilerIdC/CMakeCCompilerId.c	/^#  define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	armgcc/CMakeFiles/3.24.1/CompilerIdC/CMakeCCompilerId.c	/^# define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	armgcc/CMakeFiles/3.24.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^  # define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	armgcc/CMakeFiles/3.24.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#   define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	armgcc/CMakeFiles/3.24.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	armgcc/CMakeFiles/3.24.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_TWEAK	armgcc/CMakeFiles/3.24.1/CompilerIdC/CMakeCCompilerId.c	/^#  define COMPILER_VERSION_TWEAK /;"	d	file:
+COMPILER_VERSION_TWEAK	armgcc/CMakeFiles/3.24.1/CompilerIdC/CMakeCCompilerId.c	/^# define COMPILER_VERSION_TWEAK /;"	d	file:
+COMPILER_VERSION_TWEAK	armgcc/CMakeFiles/3.24.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define COMPILER_VERSION_TWEAK /;"	d	file:
+COMPILER_VERSION_TWEAK	armgcc/CMakeFiles/3.24.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_VERSION_TWEAK /;"	d	file:
+CXX_STD	armgcc/CMakeFiles/3.24.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#      define CXX_STD /;"	d	file:
+CXX_STD	armgcc/CMakeFiles/3.24.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#    define CXX_STD /;"	d	file:
+CXX_STD	armgcc/CMakeFiles/3.24.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define CXX_STD /;"	d	file:
+C_VERSION	armgcc/CMakeFiles/3.24.1/CompilerIdC/CMakeCCompilerId.c	/^#  define C_VERSION /;"	d	file:
+C_VERSION	armgcc/CMakeFiles/3.24.1/CompilerIdC/CMakeCCompilerId.c	/^#  define C_VERSION$/;"	d	file:
+C_VERSION	armgcc/CMakeFiles/3.24.1/CompilerIdC/CMakeCCompilerId.c	/^# define C_VERSION /;"	d	file:
+DEC	armgcc/CMakeFiles/3.24.1/CompilerIdC/CMakeCCompilerId.c	/^#define DEC(/;"	d	file:
+DEC	armgcc/CMakeFiles/3.24.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#define DEC(/;"	d	file:
+EQUALS	armgcc/Makefile	/^EQUALS = =$/;"	m
+FREERTOS_CONFIG_H	FreeRTOSConfig.h	/^#define FREERTOS_CONFIG_H$/;"	d
+HEX	armgcc/CMakeFiles/3.24.1/CompilerIdC/CMakeCCompilerId.c	/^#define HEX(/;"	d	file:
+HEX	armgcc/CMakeFiles/3.24.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#define HEX(/;"	d	file:
+ID_VOID_MAIN	armgcc/CMakeFiles/3.24.1/CompilerIdC/CMakeCCompilerId.c	/^# define ID_VOID_MAIN$/;"	d	file:
+INCLUDE_uxTaskPriorityGet	FreeRTOSConfig.h	/^#define INCLUDE_uxTaskPriorityGet /;"	d
+INCLUDE_vTaskCleanUpResources	FreeRTOSConfig.h	/^#define INCLUDE_vTaskCleanUpResources /;"	d
+INCLUDE_vTaskDelay	FreeRTOSConfig.h	/^#define INCLUDE_vTaskDelay /;"	d
+INCLUDE_vTaskDelayUntil	FreeRTOSConfig.h	/^#define INCLUDE_vTaskDelayUntil /;"	d
+INCLUDE_vTaskDelete	FreeRTOSConfig.h	/^#define INCLUDE_vTaskDelete /;"	d
+INCLUDE_vTaskPrioritySet	FreeRTOSConfig.h	/^#define INCLUDE_vTaskPrioritySet /;"	d
+INCLUDE_vTaskSuspend	FreeRTOSConfig.h	/^#define INCLUDE_vTaskSuspend /;"	d
+PLATFORM_ID	armgcc/CMakeFiles/3.24.1/CompilerIdC/CMakeCCompilerId.c	/^#  define PLATFORM_ID /;"	d	file:
+PLATFORM_ID	armgcc/CMakeFiles/3.24.1/CompilerIdC/CMakeCCompilerId.c	/^#  define PLATFORM_ID$/;"	d	file:
+PLATFORM_ID	armgcc/CMakeFiles/3.24.1/CompilerIdC/CMakeCCompilerId.c	/^# define PLATFORM_ID /;"	d	file:
+PLATFORM_ID	armgcc/CMakeFiles/3.24.1/CompilerIdC/CMakeCCompilerId.c	/^# define PLATFORM_ID$/;"	d	file:
+PLATFORM_ID	armgcc/CMakeFiles/3.24.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define PLATFORM_ID /;"	d	file:
+PLATFORM_ID	armgcc/CMakeFiles/3.24.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define PLATFORM_ID$/;"	d	file:
+PLATFORM_ID	armgcc/CMakeFiles/3.24.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define PLATFORM_ID /;"	d	file:
+PLATFORM_ID	armgcc/CMakeFiles/3.24.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define PLATFORM_ID$/;"	d	file:
+RM	armgcc/Makefile	/^RM = \/opt\/cmake-3.24.1\/bin\/cmake -E rm -f$/;"	m
+SHELL	armgcc/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SIMULATE_ID	armgcc/CMakeFiles/3.24.1/CompilerIdC/CMakeCCompilerId.c	/^#  define SIMULATE_ID /;"	d	file:
+SIMULATE_ID	armgcc/CMakeFiles/3.24.1/CompilerIdC/CMakeCCompilerId.c	/^# define SIMULATE_ID /;"	d	file:
+SIMULATE_ID	armgcc/CMakeFiles/3.24.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define SIMULATE_ID /;"	d	file:
+SIMULATE_ID	armgcc/CMakeFiles/3.24.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define SIMULATE_ID /;"	d	file:
+SIMULATE_VERSION_MAJOR	armgcc/CMakeFiles/3.24.1/CompilerIdC/CMakeCCompilerId.c	/^#  define SIMULATE_VERSION_MAJOR /;"	d	file:
+SIMULATE_VERSION_MAJOR	armgcc/CMakeFiles/3.24.1/CompilerIdC/CMakeCCompilerId.c	/^# define SIMULATE_VERSION_MAJOR /;"	d	file:
+SIMULATE_VERSION_MAJOR	armgcc/CMakeFiles/3.24.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define SIMULATE_VERSION_MAJOR /;"	d	file:
+SIMULATE_VERSION_MAJOR	armgcc/CMakeFiles/3.24.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define SIMULATE_VERSION_MAJOR /;"	d	file:
+SIMULATE_VERSION_MINOR	armgcc/CMakeFiles/3.24.1/CompilerIdC/CMakeCCompilerId.c	/^#  define SIMULATE_VERSION_MINOR /;"	d	file:
+SIMULATE_VERSION_MINOR	armgcc/CMakeFiles/3.24.1/CompilerIdC/CMakeCCompilerId.c	/^# define SIMULATE_VERSION_MINOR /;"	d	file:
+SIMULATE_VERSION_MINOR	armgcc/CMakeFiles/3.24.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define SIMULATE_VERSION_MINOR /;"	d	file:
+SIMULATE_VERSION_MINOR	armgcc/CMakeFiles/3.24.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define SIMULATE_VERSION_MINOR /;"	d	file:
+SIMULATE_VERSION_PATCH	armgcc/CMakeFiles/3.24.1/CompilerIdC/CMakeCCompilerId.c	/^#   define SIMULATE_VERSION_PATCH /;"	d	file:
+SIMULATE_VERSION_PATCH	armgcc/CMakeFiles/3.24.1/CompilerIdC/CMakeCCompilerId.c	/^#  define SIMULATE_VERSION_PATCH /;"	d	file:
+SIMULATE_VERSION_PATCH	armgcc/CMakeFiles/3.24.1/CompilerIdC/CMakeCCompilerId.c	/^# define SIMULATE_VERSION_PATCH /;"	d	file:
+SIMULATE_VERSION_PATCH	armgcc/CMakeFiles/3.24.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#   define SIMULATE_VERSION_PATCH /;"	d	file:
+SIMULATE_VERSION_PATCH	armgcc/CMakeFiles/3.24.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define SIMULATE_VERSION_PATCH /;"	d	file:
+SIMULATE_VERSION_PATCH	armgcc/CMakeFiles/3.24.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define SIMULATE_VERSION_PATCH /;"	d	file:
+STRINGIFY	armgcc/CMakeFiles/3.24.1/CompilerIdC/CMakeCCompilerId.c	/^#define STRINGIFY(/;"	d	file:
+STRINGIFY	armgcc/CMakeFiles/3.24.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#define STRINGIFY(/;"	d	file:
+STRINGIFY_HELPER	armgcc/CMakeFiles/3.24.1/CompilerIdC/CMakeCCompilerId.c	/^#define STRINGIFY_HELPER(/;"	d	file:
+STRINGIFY_HELPER	armgcc/CMakeFiles/3.24.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#define STRINGIFY_HELPER(/;"	d	file:
+StrEchoTask	str_echo_rpmsglite.c	/^static void StrEchoTask(void *pvParameters)$/;"	f	typeref:typename:void	file:
+__has_include	armgcc/CMakeFiles/3.24.1/CompilerIdC/CMakeCCompilerId.c	/^#  define __has_include(/;"	d	file:
+__has_include	armgcc/CMakeFiles/3.24.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define __has_include(/;"	d	file:
+all	armgcc/Makefile	/^all: cmake_check_build_system$/;"	t
+app_buf	str_echo_rpmsglite.c	/^static char app_buf[512]; \/* Each RPMSG buffer can carry less than 512 payload *\/$/;"	v	typeref:typename:char[512]	file:
+clean	armgcc/Makefile	/^clean:$/;"	t
+clean/fast	armgcc/Makefile	/^clean\/fast: clean$/;"	t
+cmake_check_build_system	armgcc/Makefile	/^cmake_check_build_system:$/;"	t
+cmake_force	armgcc/Makefile	/^cmake_force:$/;"	t
+configASSERT	FreeRTOSConfig.h	/^#define configASSERT(/;"	d
+configCHECK_FOR_STACK_OVERFLOW	FreeRTOSConfig.h	/^#define configCHECK_FOR_STACK_OVERFLOW /;"	d
+configCPU_CLOCK_HZ	FreeRTOSConfig.h	/^#define configCPU_CLOCK_HZ /;"	d
+configGENERATE_RUN_TIME_STATS	FreeRTOSConfig.h	/^#define configGENERATE_RUN_TIME_STATS /;"	d
+configIDLE_SHOULD_YIELD	FreeRTOSConfig.h	/^#define configIDLE_SHOULD_YIELD /;"	d
+configKERNEL_INTERRUPT_PRIORITY	FreeRTOSConfig.h	/^#define configKERNEL_INTERRUPT_PRIORITY /;"	d
+configLIBRARY_LOWEST_INTERRUPT_PRIORITY	FreeRTOSConfig.h	/^#define configLIBRARY_LOWEST_INTERRUPT_PRIORITY /;"	d
+configLIBRARY_MAX_SYSCALL_INTERRUPT_PRIORITY	FreeRTOSConfig.h	/^#define configLIBRARY_MAX_SYSCALL_INTERRUPT_PRIORITY /;"	d
+configMAX_CO_ROUTINE_PRIORITIES	FreeRTOSConfig.h	/^#define configMAX_CO_ROUTINE_PRIORITIES /;"	d
+configMAX_PRIORITIES	FreeRTOSConfig.h	/^#define configMAX_PRIORITIES /;"	d
+configMAX_SYSCALL_INTERRUPT_PRIORITY	FreeRTOSConfig.h	/^#define configMAX_SYSCALL_INTERRUPT_PRIORITY /;"	d
+configMAX_TASK_NAME_LEN	FreeRTOSConfig.h	/^#define configMAX_TASK_NAME_LEN /;"	d
+configMINIMAL_STACK_SIZE	FreeRTOSConfig.h	/^#define configMINIMAL_STACK_SIZE /;"	d
+configPRIO_BITS	FreeRTOSConfig.h	/^    #define configPRIO_BITS /;"	d
+configQUEUE_REGISTRY_SIZE	FreeRTOSConfig.h	/^#define configQUEUE_REGISTRY_SIZE /;"	d
+configTICK_RATE_HZ	FreeRTOSConfig.h	/^#define configTICK_RATE_HZ /;"	d
+configTIMER_QUEUE_LENGTH	FreeRTOSConfig.h	/^#define configTIMER_QUEUE_LENGTH /;"	d
+configTIMER_TASK_PRIORITY	FreeRTOSConfig.h	/^#define configTIMER_TASK_PRIORITY /;"	d
+configTIMER_TASK_STACK_DEPTH	FreeRTOSConfig.h	/^#define configTIMER_TASK_STACK_DEPTH /;"	d
+configTOTAL_HEAP_SIZE	FreeRTOSConfig.h	/^#define configTOTAL_HEAP_SIZE /;"	d
+configUSE_16_BIT_TICKS	FreeRTOSConfig.h	/^#define configUSE_16_BIT_TICKS /;"	d
+configUSE_APPLICATION_TASK_TAG	FreeRTOSConfig.h	/^#define configUSE_APPLICATION_TASK_TAG /;"	d
+configUSE_COUNTING_SEMAPHORES	FreeRTOSConfig.h	/^#define configUSE_COUNTING_SEMAPHORES /;"	d
+configUSE_CO_ROUTINES	FreeRTOSConfig.h	/^#define configUSE_CO_ROUTINES /;"	d
+configUSE_IDLE_HOOK	FreeRTOSConfig.h	/^#define configUSE_IDLE_HOOK /;"	d
+configUSE_MALLOC_FAILED_HOOK	FreeRTOSConfig.h	/^#define configUSE_MALLOC_FAILED_HOOK /;"	d
+configUSE_MUTEXES	FreeRTOSConfig.h	/^#define configUSE_MUTEXES /;"	d
+configUSE_PREEMPTION	FreeRTOSConfig.h	/^#define configUSE_PREEMPTION /;"	d
+configUSE_RECURSIVE_MUTEXES	FreeRTOSConfig.h	/^#define configUSE_RECURSIVE_MUTEXES /;"	d
+configUSE_TICK_HOOK	FreeRTOSConfig.h	/^#define configUSE_TICK_HOOK /;"	d
+configUSE_TIMERS	FreeRTOSConfig.h	/^#define configUSE_TIMERS /;"	d
+configUSE_TRACE_FACILITY	FreeRTOSConfig.h	/^#define configUSE_TRACE_FACILITY /;"	d
+const	armgcc/CMakeFiles/3.24.1/CompilerIdC/CMakeCCompilerId.c	/^# define const$/;"	d	file:
+default_target	armgcc/Makefile	/^default_target: all$/;"	t
+depend	armgcc/Makefile	/^depend:$/;"	t
+edit_cache	armgcc/Makefile	/^edit_cache:$/;"	t
+edit_cache/fast	armgcc/Makefile	/^edit_cache\/fast: edit_cache$/;"	t
+features	armgcc/CMakeFiles/feature_tests.cxx	/^  const char features[] = {"\\n"$/;"	v	typeref:typename:const char[]
+hardware_init	hardware_init.c	/^void hardware_init(void)$/;"	f	typeref:typename:void
+help	armgcc/Makefile	/^help:$/;"	t
+home/neuberfran/projects/freertos-tn/examples/imx7d_pico_m4/board.c.i	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/examples\/imx7d_pico_m4\/board.c.i:$/;"	t
+home/neuberfran/projects/freertos-tn/examples/imx7d_pico_m4/board.c.obj	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/examples\/imx7d_pico_m4\/board.c.obj:$/;"	t
+home/neuberfran/projects/freertos-tn/examples/imx7d_pico_m4/board.c.s	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/examples\/imx7d_pico_m4\/board.c.s:$/;"	t
+home/neuberfran/projects/freertos-tn/examples/imx7d_pico_m4/board.i	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/examples\/imx7d_pico_m4\/board.i: home\/neuberfran\/pro/;"	t
+home/neuberfran/projects/freertos-tn/examples/imx7d_pico_m4/board.obj	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/examples\/imx7d_pico_m4\/board.obj: home\/neuberfran\/p/;"	t
+home/neuberfran/projects/freertos-tn/examples/imx7d_pico_m4/board.s	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/examples\/imx7d_pico_m4\/board.s: home\/neuberfran\/pro/;"	t
+home/neuberfran/projects/freertos-tn/examples/imx7d_pico_m4/clock_freq.c.i	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/examples\/imx7d_pico_m4\/clock_freq.c.i:$/;"	t
+home/neuberfran/projects/freertos-tn/examples/imx7d_pico_m4/clock_freq.c.obj	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/examples\/imx7d_pico_m4\/clock_freq.c.obj:$/;"	t
+home/neuberfran/projects/freertos-tn/examples/imx7d_pico_m4/clock_freq.c.s	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/examples\/imx7d_pico_m4\/clock_freq.c.s:$/;"	t
+home/neuberfran/projects/freertos-tn/examples/imx7d_pico_m4/clock_freq.i	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/examples\/imx7d_pico_m4\/clock_freq.i: home\/neuberfran/;"	t
+home/neuberfran/projects/freertos-tn/examples/imx7d_pico_m4/clock_freq.obj	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/examples\/imx7d_pico_m4\/clock_freq.obj: home\/neuberfr/;"	t
+home/neuberfran/projects/freertos-tn/examples/imx7d_pico_m4/clock_freq.s	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/examples\/imx7d_pico_m4\/clock_freq.s: home\/neuberfran/;"	t
+home/neuberfran/projects/freertos-tn/examples/imx7d_pico_m4/demo_apps/rpmsg/str_echo_rpmsglite/hardware_init.c.i	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/examples\/imx7d_pico_m4\/demo_apps\/rpmsg\/str_echo_fre/;"	t
+home/neuberfran/projects/freertos-tn/examples/imx7d_pico_m4/demo_apps/rpmsg/str_echo_rpmsglite/hardware_init.c.obj	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/examples\/imx7d_pico_m4\/demo_apps\/rpmsg\/str_echo_fre/;"	t
+home/neuberfran/projects/freertos-tn/examples/imx7d_pico_m4/demo_apps/rpmsg/str_echo_rpmsglite/hardware_init.c.s	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/examples\/imx7d_pico_m4\/demo_apps\/rpmsg\/str_echo_fre/;"	t
+home/neuberfran/projects/freertos-tn/examples/imx7d_pico_m4/demo_apps/rpmsg/str_echo_rpmsglite/hardware_init.i	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/examples\/imx7d_pico_m4\/demo_apps\/rpmsg\/str_echo_fre/;"	t
+home/neuberfran/projects/freertos-tn/examples/imx7d_pico_m4/demo_apps/rpmsg/str_echo_rpmsglite/hardware_init.obj	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/examples\/imx7d_pico_m4\/demo_apps\/rpmsg\/str_echo_fre/;"	t
+home/neuberfran/projects/freertos-tn/examples/imx7d_pico_m4/demo_apps/rpmsg/str_echo_rpmsglite/hardware_init.s	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/examples\/imx7d_pico_m4\/demo_apps\/rpmsg\/str_echo_fre/;"	t
+home/neuberfran/projects/freertos-tn/examples/imx7d_pico_m4/demo_apps/rpmsg/str_echo_rpmsglite/str_echo_rpmsglite.c.i	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/examples\/imx7d_pico_m4\/demo_apps\/rpmsg\/str_echo_fre/;"	t
+home/neuberfran/projects/freertos-tn/examples/imx7d_pico_m4/demo_apps/rpmsg/str_echo_rpmsglite/str_echo_rpmsglite.c.obj	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/examples\/imx7d_pico_m4\/demo_apps\/rpmsg\/str_echo_fre/;"	t
+home/neuberfran/projects/freertos-tn/examples/imx7d_pico_m4/demo_apps/rpmsg/str_echo_rpmsglite/str_echo_rpmsglite.c.s	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/examples\/imx7d_pico_m4\/demo_apps\/rpmsg\/str_echo_fre/;"	t
+home/neuberfran/projects/freertos-tn/examples/imx7d_pico_m4/demo_apps/rpmsg/str_echo_rpmsglite/str_echo_rpmsglite.i	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/examples\/imx7d_pico_m4\/demo_apps\/rpmsg\/str_echo_fre/;"	t
+home/neuberfran/projects/freertos-tn/examples/imx7d_pico_m4/demo_apps/rpmsg/str_echo_rpmsglite/str_echo_rpmsglite.obj	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/examples\/imx7d_pico_m4\/demo_apps\/rpmsg\/str_echo_fre/;"	t
+home/neuberfran/projects/freertos-tn/examples/imx7d_pico_m4/demo_apps/rpmsg/str_echo_rpmsglite/str_echo_rpmsglite.s	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/examples\/imx7d_pico_m4\/demo_apps\/rpmsg\/str_echo_fre/;"	t
+home/neuberfran/projects/freertos-tn/examples/imx7d_pico_m4/pin_mux.c.i	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/examples\/imx7d_pico_m4\/pin_mux.c.i:$/;"	t
+home/neuberfran/projects/freertos-tn/examples/imx7d_pico_m4/pin_mux.c.obj	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/examples\/imx7d_pico_m4\/pin_mux.c.obj:$/;"	t
+home/neuberfran/projects/freertos-tn/examples/imx7d_pico_m4/pin_mux.c.s	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/examples\/imx7d_pico_m4\/pin_mux.c.s:$/;"	t
+home/neuberfran/projects/freertos-tn/examples/imx7d_pico_m4/pin_mux.i	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/examples\/imx7d_pico_m4\/pin_mux.i: home\/neuberfran\/p/;"	t
+home/neuberfran/projects/freertos-tn/examples/imx7d_pico_m4/pin_mux.obj	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/examples\/imx7d_pico_m4\/pin_mux.obj: home\/neuberfran\//;"	t
+home/neuberfran/projects/freertos-tn/examples/imx7d_pico_m4/pin_mux.s	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/examples\/imx7d_pico_m4\/pin_mux.s: home\/neuberfran\/p/;"	t
+home/neuberfran/projects/freertos-tn/middleware/multicore/open-amp/common/hil/hil.c.i	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/middleware\/multicore\/open-amp\/common\/hil\/hil.c.i:$/;"	t
+home/neuberfran/projects/freertos-tn/middleware/multicore/open-amp/common/hil/hil.c.obj	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/middleware\/multicore\/open-amp\/common\/hil\/hil.c.obj/;"	t
+home/neuberfran/projects/freertos-tn/middleware/multicore/open-amp/common/hil/hil.c.s	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/middleware\/multicore\/open-amp\/common\/hil\/hil.c.s:$/;"	t
+home/neuberfran/projects/freertos-tn/middleware/multicore/open-amp/common/hil/hil.i	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/middleware\/multicore\/open-amp\/common\/hil\/hil.i: ho/;"	t
+home/neuberfran/projects/freertos-tn/middleware/multicore/open-amp/common/hil/hil.obj	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/middleware\/multicore\/open-amp\/common\/hil\/hil.obj: /;"	t
+home/neuberfran/projects/freertos-tn/middleware/multicore/open-amp/common/hil/hil.s	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/middleware\/multicore\/open-amp\/common\/hil\/hil.s: ho/;"	t
+home/neuberfran/projects/freertos-tn/middleware/multicore/open-amp/common/llist/llist.c.i	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/middleware\/multicore\/open-amp\/common\/llist\/llist.c/;"	t
+home/neuberfran/projects/freertos-tn/middleware/multicore/open-amp/common/llist/llist.c.obj	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/middleware\/multicore\/open-amp\/common\/llist\/llist.c/;"	t
+home/neuberfran/projects/freertos-tn/middleware/multicore/open-amp/common/llist/llist.c.s	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/middleware\/multicore\/open-amp\/common\/llist\/llist.c/;"	t
+home/neuberfran/projects/freertos-tn/middleware/multicore/open-amp/common/llist/llist.i	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/middleware\/multicore\/open-amp\/common\/llist\/llist.i/;"	t
+home/neuberfran/projects/freertos-tn/middleware/multicore/open-amp/common/llist/llist.obj	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/middleware\/multicore\/open-amp\/common\/llist\/llist.o/;"	t
+home/neuberfran/projects/freertos-tn/middleware/multicore/open-amp/common/llist/llist.s	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/middleware\/multicore\/open-amp\/common\/llist\/llist.s/;"	t
+home/neuberfran/projects/freertos-tn/middleware/multicore/open-amp/common/shm/sh_mem.c.i	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/middleware\/multicore\/open-amp\/common\/shm\/sh_mem.c./;"	t
+home/neuberfran/projects/freertos-tn/middleware/multicore/open-amp/common/shm/sh_mem.c.obj	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/middleware\/multicore\/open-amp\/common\/shm\/sh_mem.c./;"	t
+home/neuberfran/projects/freertos-tn/middleware/multicore/open-amp/common/shm/sh_mem.c.s	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/middleware\/multicore\/open-amp\/common\/shm\/sh_mem.c./;"	t
+home/neuberfran/projects/freertos-tn/middleware/multicore/open-amp/common/shm/sh_mem.i	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/middleware\/multicore\/open-amp\/common\/shm\/sh_mem.i:/;"	t
+home/neuberfran/projects/freertos-tn/middleware/multicore/open-amp/common/shm/sh_mem.obj	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/middleware\/multicore\/open-amp\/common\/shm\/sh_mem.ob/;"	t
+home/neuberfran/projects/freertos-tn/middleware/multicore/open-amp/common/shm/sh_mem.s	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/middleware\/multicore\/open-amp\/common\/shm\/sh_mem.s:/;"	t
+home/neuberfran/projects/freertos-tn/middleware/multicore/open-amp/porting/config/config.c.i	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/middleware\/multicore\/open-amp\/porting\/config\/confi/;"	t
+home/neuberfran/projects/freertos-tn/middleware/multicore/open-amp/porting/config/config.c.obj	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/middleware\/multicore\/open-amp\/porting\/config\/confi/;"	t
+home/neuberfran/projects/freertos-tn/middleware/multicore/open-amp/porting/config/config.c.s	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/middleware\/multicore\/open-amp\/porting\/config\/confi/;"	t
+home/neuberfran/projects/freertos-tn/middleware/multicore/open-amp/porting/config/config.i	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/middleware\/multicore\/open-amp\/porting\/config\/confi/;"	t
+home/neuberfran/projects/freertos-tn/middleware/multicore/open-amp/porting/config/config.obj	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/middleware\/multicore\/open-amp\/porting\/config\/confi/;"	t
+home/neuberfran/projects/freertos-tn/middleware/multicore/open-amp/porting/config/config.s	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/middleware\/multicore\/open-amp\/porting\/config\/confi/;"	t
+home/neuberfran/projects/freertos-tn/middleware/multicore/open-amp/porting/env/freertos/rpmsg_porting.c.i	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/middleware\/multicore\/open-amp\/porting\/env\/freertos/;"	t
+home/neuberfran/projects/freertos-tn/middleware/multicore/open-amp/porting/env/freertos/rpmsg_porting.c.obj	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/middleware\/multicore\/open-amp\/porting\/env\/freertos/;"	t
+home/neuberfran/projects/freertos-tn/middleware/multicore/open-amp/porting/env/freertos/rpmsg_porting.c.s	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/middleware\/multicore\/open-amp\/porting\/env\/freertos/;"	t
+home/neuberfran/projects/freertos-tn/middleware/multicore/open-amp/porting/env/freertos/rpmsg_porting.i	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/middleware\/multicore\/open-amp\/porting\/env\/freertos/;"	t
+home/neuberfran/projects/freertos-tn/middleware/multicore/open-amp/porting/env/freertos/rpmsg_porting.obj	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/middleware\/multicore\/open-amp\/porting\/env\/freertos/;"	t
+home/neuberfran/projects/freertos-tn/middleware/multicore/open-amp/porting/env/freertos/rpmsg_porting.s	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/middleware\/multicore\/open-amp\/porting\/env\/freertos/;"	t
+home/neuberfran/projects/freertos-tn/middleware/multicore/open-amp/porting/imx7d_m4/platform.c.i	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/middleware\/multicore\/open-amp\/porting\/imx7d_m4\/pla/;"	t
+home/neuberfran/projects/freertos-tn/middleware/multicore/open-amp/porting/imx7d_m4/platform.c.obj	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/middleware\/multicore\/open-amp\/porting\/imx7d_m4\/pla/;"	t
+home/neuberfran/projects/freertos-tn/middleware/multicore/open-amp/porting/imx7d_m4/platform.c.s	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/middleware\/multicore\/open-amp\/porting\/imx7d_m4\/pla/;"	t
+home/neuberfran/projects/freertos-tn/middleware/multicore/open-amp/porting/imx7d_m4/platform.i	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/middleware\/multicore\/open-amp\/porting\/imx7d_m4\/pla/;"	t
+home/neuberfran/projects/freertos-tn/middleware/multicore/open-amp/porting/imx7d_m4/platform.obj	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/middleware\/multicore\/open-amp\/porting\/imx7d_m4\/pla/;"	t
+home/neuberfran/projects/freertos-tn/middleware/multicore/open-amp/porting/imx7d_m4/platform.s	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/middleware\/multicore\/open-amp\/porting\/imx7d_m4\/pla/;"	t
+home/neuberfran/projects/freertos-tn/middleware/multicore/open-amp/porting/imx7d_m4/platform_info.c.i	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/middleware\/multicore\/open-amp\/porting\/imx7d_m4\/pla/;"	t
+home/neuberfran/projects/freertos-tn/middleware/multicore/open-amp/porting/imx7d_m4/platform_info.c.obj	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/middleware\/multicore\/open-amp\/porting\/imx7d_m4\/pla/;"	t
+home/neuberfran/projects/freertos-tn/middleware/multicore/open-amp/porting/imx7d_m4/platform_info.c.s	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/middleware\/multicore\/open-amp\/porting\/imx7d_m4\/pla/;"	t
+home/neuberfran/projects/freertos-tn/middleware/multicore/open-amp/porting/imx7d_m4/platform_info.i	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/middleware\/multicore\/open-amp\/porting\/imx7d_m4\/pla/;"	t
+home/neuberfran/projects/freertos-tn/middleware/multicore/open-amp/porting/imx7d_m4/platform_info.obj	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/middleware\/multicore\/open-amp\/porting\/imx7d_m4\/pla/;"	t
+home/neuberfran/projects/freertos-tn/middleware/multicore/open-amp/porting/imx7d_m4/platform_info.s	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/middleware\/multicore\/open-amp\/porting\/imx7d_m4\/pla/;"	t
+home/neuberfran/projects/freertos-tn/middleware/multicore/open-amp/rpmsg/remote_device.c.i	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/middleware\/multicore\/open-amp\/rpmsg\/remote_device.c/;"	t
+home/neuberfran/projects/freertos-tn/middleware/multicore/open-amp/rpmsg/remote_device.c.obj	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/middleware\/multicore\/open-amp\/rpmsg\/remote_device.c/;"	t
+home/neuberfran/projects/freertos-tn/middleware/multicore/open-amp/rpmsg/remote_device.c.s	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/middleware\/multicore\/open-amp\/rpmsg\/remote_device.c/;"	t
+home/neuberfran/projects/freertos-tn/middleware/multicore/open-amp/rpmsg/remote_device.i	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/middleware\/multicore\/open-amp\/rpmsg\/remote_device.i/;"	t
+home/neuberfran/projects/freertos-tn/middleware/multicore/open-amp/rpmsg/remote_device.obj	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/middleware\/multicore\/open-amp\/rpmsg\/remote_device.o/;"	t
+home/neuberfran/projects/freertos-tn/middleware/multicore/open-amp/rpmsg/remote_device.s	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/middleware\/multicore\/open-amp\/rpmsg\/remote_device.s/;"	t
+home/neuberfran/projects/freertos-tn/middleware/multicore/open-amp/rpmsg/rpmsg.c.i	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/middleware\/multicore\/open-amp\/rpmsg\/rpmsg.c.i:$/;"	t
+home/neuberfran/projects/freertos-tn/middleware/multicore/open-amp/rpmsg/rpmsg.c.obj	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/middleware\/multicore\/open-amp\/rpmsg\/rpmsg.c.obj:$/;"	t
+home/neuberfran/projects/freertos-tn/middleware/multicore/open-amp/rpmsg/rpmsg.c.s	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/middleware\/multicore\/open-amp\/rpmsg\/rpmsg.c.s:$/;"	t
+home/neuberfran/projects/freertos-tn/middleware/multicore/open-amp/rpmsg/rpmsg.i	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/middleware\/multicore\/open-amp\/rpmsg\/rpmsg.i: home\//;"	t
+home/neuberfran/projects/freertos-tn/middleware/multicore/open-amp/rpmsg/rpmsg.obj	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/middleware\/multicore\/open-amp\/rpmsg\/rpmsg.obj: home/;"	t
+home/neuberfran/projects/freertos-tn/middleware/multicore/open-amp/rpmsg/rpmsg.s	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/middleware\/multicore\/open-amp\/rpmsg\/rpmsg.s: home\//;"	t
+home/neuberfran/projects/freertos-tn/middleware/multicore/open-amp/rpmsg/rpmsg_core.c.i	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/middleware\/multicore\/open-amp\/rpmsg\/rpmsg_core.c.i:$/;"	t
+home/neuberfran/projects/freertos-tn/middleware/multicore/open-amp/rpmsg/rpmsg_core.c.obj	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/middleware\/multicore\/open-amp\/rpmsg\/rpmsg_core.c.ob/;"	t
+home/neuberfran/projects/freertos-tn/middleware/multicore/open-amp/rpmsg/rpmsg_core.c.s	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/middleware\/multicore\/open-amp\/rpmsg\/rpmsg_core.c.s:$/;"	t
+home/neuberfran/projects/freertos-tn/middleware/multicore/open-amp/rpmsg/rpmsg_core.i	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/middleware\/multicore\/open-amp\/rpmsg\/rpmsg_core.i: h/;"	t
+home/neuberfran/projects/freertos-tn/middleware/multicore/open-amp/rpmsg/rpmsg_core.obj	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/middleware\/multicore\/open-amp\/rpmsg\/rpmsg_core.obj:/;"	t
+home/neuberfran/projects/freertos-tn/middleware/multicore/open-amp/rpmsg/rpmsg_core.s	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/middleware\/multicore\/open-amp\/rpmsg\/rpmsg_core.s: h/;"	t
+home/neuberfran/projects/freertos-tn/middleware/multicore/open-amp/rpmsg/rpmsg_ext.c.i	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/middleware\/multicore\/open-amp\/rpmsg\/rpmsg_ext.c.i:$/;"	t
+home/neuberfran/projects/freertos-tn/middleware/multicore/open-amp/rpmsg/rpmsg_ext.c.obj	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/middleware\/multicore\/open-amp\/rpmsg\/rpmsg_ext.c.obj/;"	t
+home/neuberfran/projects/freertos-tn/middleware/multicore/open-amp/rpmsg/rpmsg_ext.c.s	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/middleware\/multicore\/open-amp\/rpmsg\/rpmsg_ext.c.s:$/;"	t
+home/neuberfran/projects/freertos-tn/middleware/multicore/open-amp/rpmsg/rpmsg_ext.i	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/middleware\/multicore\/open-amp\/rpmsg\/rpmsg_ext.i: ho/;"	t
+home/neuberfran/projects/freertos-tn/middleware/multicore/open-amp/rpmsg/rpmsg_ext.obj	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/middleware\/multicore\/open-amp\/rpmsg\/rpmsg_ext.obj: /;"	t
+home/neuberfran/projects/freertos-tn/middleware/multicore/open-amp/rpmsg/rpmsg_ext.s	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/middleware\/multicore\/open-amp\/rpmsg\/rpmsg_ext.s: ho/;"	t
+home/neuberfran/projects/freertos-tn/middleware/multicore/open-amp/rpmsg/rpmsg_rtos.c.i	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/middleware\/multicore\/open-amp\/rpmsg\/rpmsg_rtos.c.i:$/;"	t
+home/neuberfran/projects/freertos-tn/middleware/multicore/open-amp/rpmsg/rpmsg_rtos.c.obj	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/middleware\/multicore\/open-amp\/rpmsg\/rpmsg_rtos.c.ob/;"	t
+home/neuberfran/projects/freertos-tn/middleware/multicore/open-amp/rpmsg/rpmsg_rtos.c.s	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/middleware\/multicore\/open-amp\/rpmsg\/rpmsg_rtos.c.s:$/;"	t
+home/neuberfran/projects/freertos-tn/middleware/multicore/open-amp/rpmsg/rpmsg_rtos.i	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/middleware\/multicore\/open-amp\/rpmsg\/rpmsg_rtos.i: h/;"	t
+home/neuberfran/projects/freertos-tn/middleware/multicore/open-amp/rpmsg/rpmsg_rtos.obj	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/middleware\/multicore\/open-amp\/rpmsg\/rpmsg_rtos.obj:/;"	t
+home/neuberfran/projects/freertos-tn/middleware/multicore/open-amp/rpmsg/rpmsg_rtos.s	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/middleware\/multicore\/open-amp\/rpmsg\/rpmsg_rtos.s: h/;"	t
+home/neuberfran/projects/freertos-tn/middleware/multicore/open-amp/virtio/virtio.c.i	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/middleware\/multicore\/open-amp\/virtio\/virtio.c.i:$/;"	t
+home/neuberfran/projects/freertos-tn/middleware/multicore/open-amp/virtio/virtio.c.obj	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/middleware\/multicore\/open-amp\/virtio\/virtio.c.obj:$/;"	t
+home/neuberfran/projects/freertos-tn/middleware/multicore/open-amp/virtio/virtio.c.s	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/middleware\/multicore\/open-amp\/virtio\/virtio.c.s:$/;"	t
+home/neuberfran/projects/freertos-tn/middleware/multicore/open-amp/virtio/virtio.i	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/middleware\/multicore\/open-amp\/virtio\/virtio.i: home/;"	t
+home/neuberfran/projects/freertos-tn/middleware/multicore/open-amp/virtio/virtio.obj	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/middleware\/multicore\/open-amp\/virtio\/virtio.obj: ho/;"	t
+home/neuberfran/projects/freertos-tn/middleware/multicore/open-amp/virtio/virtio.s	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/middleware\/multicore\/open-amp\/virtio\/virtio.s: home/;"	t
+home/neuberfran/projects/freertos-tn/middleware/multicore/open-amp/virtio/virtqueue.c.i	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/middleware\/multicore\/open-amp\/virtio\/virtqueue.c.i:$/;"	t
+home/neuberfran/projects/freertos-tn/middleware/multicore/open-amp/virtio/virtqueue.c.obj	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/middleware\/multicore\/open-amp\/virtio\/virtqueue.c.ob/;"	t
+home/neuberfran/projects/freertos-tn/middleware/multicore/open-amp/virtio/virtqueue.c.s	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/middleware\/multicore\/open-amp\/virtio\/virtqueue.c.s:$/;"	t
+home/neuberfran/projects/freertos-tn/middleware/multicore/open-amp/virtio/virtqueue.i	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/middleware\/multicore\/open-amp\/virtio\/virtqueue.i: h/;"	t
+home/neuberfran/projects/freertos-tn/middleware/multicore/open-amp/virtio/virtqueue.obj	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/middleware\/multicore\/open-amp\/virtio\/virtqueue.obj:/;"	t
+home/neuberfran/projects/freertos-tn/middleware/multicore/open-amp/virtio/virtqueue.s	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/middleware\/multicore\/open-amp\/virtio\/virtqueue.s: h/;"	t
+home/neuberfran/projects/freertos-tn/platform/devices/MCIMX7D/startup/gcc/startup_MCIMX7D_M4.S.obj	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/platform\/devices\/MCIMX7D\/startup\/gcc\/startup_MCIMX/;"	t
+home/neuberfran/projects/freertos-tn/platform/devices/MCIMX7D/startup/gcc/startup_MCIMX7D_M4.obj	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/platform\/devices\/MCIMX7D\/startup\/gcc\/startup_MCIMX/;"	t
+home/neuberfran/projects/freertos-tn/platform/devices/MCIMX7D/startup/system_MCIMX7D_M4.c.i	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/platform\/devices\/MCIMX7D\/startup\/system_MCIMX7D_M4./;"	t
+home/neuberfran/projects/freertos-tn/platform/devices/MCIMX7D/startup/system_MCIMX7D_M4.c.obj	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/platform\/devices\/MCIMX7D\/startup\/system_MCIMX7D_M4./;"	t
+home/neuberfran/projects/freertos-tn/platform/devices/MCIMX7D/startup/system_MCIMX7D_M4.c.s	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/platform\/devices\/MCIMX7D\/startup\/system_MCIMX7D_M4./;"	t
+home/neuberfran/projects/freertos-tn/platform/devices/MCIMX7D/startup/system_MCIMX7D_M4.i	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/platform\/devices\/MCIMX7D\/startup\/system_MCIMX7D_M4./;"	t
+home/neuberfran/projects/freertos-tn/platform/devices/MCIMX7D/startup/system_MCIMX7D_M4.obj	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/platform\/devices\/MCIMX7D\/startup\/system_MCIMX7D_M4./;"	t
+home/neuberfran/projects/freertos-tn/platform/devices/MCIMX7D/startup/system_MCIMX7D_M4.s	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/platform\/devices\/MCIMX7D\/startup\/system_MCIMX7D_M4./;"	t
+home/neuberfran/projects/freertos-tn/platform/drivers/src/ccm_analog_imx7d.c.i	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/platform\/drivers\/src\/ccm_analog_imx7d.c.i:$/;"	t
+home/neuberfran/projects/freertos-tn/platform/drivers/src/ccm_analog_imx7d.c.obj	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/platform\/drivers\/src\/ccm_analog_imx7d.c.obj:$/;"	t
+home/neuberfran/projects/freertos-tn/platform/drivers/src/ccm_analog_imx7d.c.s	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/platform\/drivers\/src\/ccm_analog_imx7d.c.s:$/;"	t
+home/neuberfran/projects/freertos-tn/platform/drivers/src/ccm_analog_imx7d.i	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/platform\/drivers\/src\/ccm_analog_imx7d.i: home\/neube/;"	t
+home/neuberfran/projects/freertos-tn/platform/drivers/src/ccm_analog_imx7d.obj	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/platform\/drivers\/src\/ccm_analog_imx7d.obj: home\/neu/;"	t
+home/neuberfran/projects/freertos-tn/platform/drivers/src/ccm_analog_imx7d.s	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/platform\/drivers\/src\/ccm_analog_imx7d.s: home\/neube/;"	t
+home/neuberfran/projects/freertos-tn/platform/drivers/src/ccm_imx7d.c.i	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/platform\/drivers\/src\/ccm_imx7d.c.i:$/;"	t
+home/neuberfran/projects/freertos-tn/platform/drivers/src/ccm_imx7d.c.obj	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/platform\/drivers\/src\/ccm_imx7d.c.obj:$/;"	t
+home/neuberfran/projects/freertos-tn/platform/drivers/src/ccm_imx7d.c.s	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/platform\/drivers\/src\/ccm_imx7d.c.s:$/;"	t
+home/neuberfran/projects/freertos-tn/platform/drivers/src/ccm_imx7d.i	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/platform\/drivers\/src\/ccm_imx7d.i: home\/neuberfran\//;"	t
+home/neuberfran/projects/freertos-tn/platform/drivers/src/ccm_imx7d.obj	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/platform\/drivers\/src\/ccm_imx7d.obj: home\/neuberfran/;"	t
+home/neuberfran/projects/freertos-tn/platform/drivers/src/ccm_imx7d.s	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/platform\/drivers\/src\/ccm_imx7d.s: home\/neuberfran\//;"	t
+home/neuberfran/projects/freertos-tn/platform/drivers/src/lmem.c.i	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/platform\/drivers\/src\/lmem.c.i:$/;"	t
+home/neuberfran/projects/freertos-tn/platform/drivers/src/lmem.c.obj	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/platform\/drivers\/src\/lmem.c.obj:$/;"	t
+home/neuberfran/projects/freertos-tn/platform/drivers/src/lmem.c.s	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/platform\/drivers\/src\/lmem.c.s:$/;"	t
+home/neuberfran/projects/freertos-tn/platform/drivers/src/lmem.i	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/platform\/drivers\/src\/lmem.i: home\/neuberfran\/proje/;"	t
+home/neuberfran/projects/freertos-tn/platform/drivers/src/lmem.obj	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/platform\/drivers\/src\/lmem.obj: home\/neuberfran\/pro/;"	t
+home/neuberfran/projects/freertos-tn/platform/drivers/src/lmem.s	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/platform\/drivers\/src\/lmem.s: home\/neuberfran\/proje/;"	t
+home/neuberfran/projects/freertos-tn/platform/drivers/src/mu_imx.c.i	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/platform\/drivers\/src\/mu_imx.c.i:$/;"	t
+home/neuberfran/projects/freertos-tn/platform/drivers/src/mu_imx.c.obj	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/platform\/drivers\/src\/mu_imx.c.obj:$/;"	t
+home/neuberfran/projects/freertos-tn/platform/drivers/src/mu_imx.c.s	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/platform\/drivers\/src\/mu_imx.c.s:$/;"	t
+home/neuberfran/projects/freertos-tn/platform/drivers/src/mu_imx.i	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/platform\/drivers\/src\/mu_imx.i: home\/neuberfran\/pro/;"	t
+home/neuberfran/projects/freertos-tn/platform/drivers/src/mu_imx.obj	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/platform\/drivers\/src\/mu_imx.obj: home\/neuberfran\/p/;"	t
+home/neuberfran/projects/freertos-tn/platform/drivers/src/mu_imx.s	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/platform\/drivers\/src\/mu_imx.s: home\/neuberfran\/pro/;"	t
+home/neuberfran/projects/freertos-tn/platform/drivers/src/rdc.c.i	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/platform\/drivers\/src\/rdc.c.i:$/;"	t
+home/neuberfran/projects/freertos-tn/platform/drivers/src/rdc.c.obj	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/platform\/drivers\/src\/rdc.c.obj:$/;"	t
+home/neuberfran/projects/freertos-tn/platform/drivers/src/rdc.c.s	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/platform\/drivers\/src\/rdc.c.s:$/;"	t
+home/neuberfran/projects/freertos-tn/platform/drivers/src/rdc.i	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/platform\/drivers\/src\/rdc.i: home\/neuberfran\/projec/;"	t
+home/neuberfran/projects/freertos-tn/platform/drivers/src/rdc.obj	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/platform\/drivers\/src\/rdc.obj: home\/neuberfran\/proj/;"	t
+home/neuberfran/projects/freertos-tn/platform/drivers/src/rdc.s	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/platform\/drivers\/src\/rdc.s: home\/neuberfran\/projec/;"	t
+home/neuberfran/projects/freertos-tn/platform/drivers/src/uart_imx.c.i	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/platform\/drivers\/src\/uart_imx.c.i:$/;"	t
+home/neuberfran/projects/freertos-tn/platform/drivers/src/uart_imx.c.obj	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/platform\/drivers\/src\/uart_imx.c.obj:$/;"	t
+home/neuberfran/projects/freertos-tn/platform/drivers/src/uart_imx.c.s	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/platform\/drivers\/src\/uart_imx.c.s:$/;"	t
+home/neuberfran/projects/freertos-tn/platform/drivers/src/uart_imx.i	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/platform\/drivers\/src\/uart_imx.i: home\/neuberfran\/p/;"	t
+home/neuberfran/projects/freertos-tn/platform/drivers/src/uart_imx.obj	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/platform\/drivers\/src\/uart_imx.obj: home\/neuberfran\//;"	t
+home/neuberfran/projects/freertos-tn/platform/drivers/src/uart_imx.s	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/platform\/drivers\/src\/uart_imx.s: home\/neuberfran\/p/;"	t
+home/neuberfran/projects/freertos-tn/platform/drivers/src/wdog_imx.c.i	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/platform\/drivers\/src\/wdog_imx.c.i:$/;"	t
+home/neuberfran/projects/freertos-tn/platform/drivers/src/wdog_imx.c.obj	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/platform\/drivers\/src\/wdog_imx.c.obj:$/;"	t
+home/neuberfran/projects/freertos-tn/platform/drivers/src/wdog_imx.c.s	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/platform\/drivers\/src\/wdog_imx.c.s:$/;"	t
+home/neuberfran/projects/freertos-tn/platform/drivers/src/wdog_imx.i	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/platform\/drivers\/src\/wdog_imx.i: home\/neuberfran\/p/;"	t
+home/neuberfran/projects/freertos-tn/platform/drivers/src/wdog_imx.obj	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/platform\/drivers\/src\/wdog_imx.obj: home\/neuberfran\//;"	t
+home/neuberfran/projects/freertos-tn/platform/drivers/src/wdog_imx.s	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/platform\/drivers\/src\/wdog_imx.s: home\/neuberfran\/p/;"	t
+home/neuberfran/projects/freertos-tn/platform/utilities/src/debug_console_imx.c.i	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/platform\/utilities\/src\/debug_console_imx.c.i:$/;"	t
+home/neuberfran/projects/freertos-tn/platform/utilities/src/debug_console_imx.c.obj	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/platform\/utilities\/src\/debug_console_imx.c.obj:$/;"	t
+home/neuberfran/projects/freertos-tn/platform/utilities/src/debug_console_imx.c.s	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/platform\/utilities\/src\/debug_console_imx.c.s:$/;"	t
+home/neuberfran/projects/freertos-tn/platform/utilities/src/debug_console_imx.i	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/platform\/utilities\/src\/debug_console_imx.i: home\/ne/;"	t
+home/neuberfran/projects/freertos-tn/platform/utilities/src/debug_console_imx.obj	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/platform\/utilities\/src\/debug_console_imx.obj: home\//;"	t
+home/neuberfran/projects/freertos-tn/platform/utilities/src/debug_console_imx.s	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/platform\/utilities\/src\/debug_console_imx.s: home\/ne/;"	t
+home/neuberfran/projects/freertos-tn/platform/utilities/src/print_scan.c.i	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/platform\/utilities\/src\/print_scan.c.i:$/;"	t
+home/neuberfran/projects/freertos-tn/platform/utilities/src/print_scan.c.obj	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/platform\/utilities\/src\/print_scan.c.obj:$/;"	t
+home/neuberfran/projects/freertos-tn/platform/utilities/src/print_scan.c.s	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/platform\/utilities\/src\/print_scan.c.s:$/;"	t
+home/neuberfran/projects/freertos-tn/platform/utilities/src/print_scan.i	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/platform\/utilities\/src\/print_scan.i: home\/neuberfra/;"	t
+home/neuberfran/projects/freertos-tn/platform/utilities/src/print_scan.obj	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/platform\/utilities\/src\/print_scan.obj: home\/neuberf/;"	t
+home/neuberfran/projects/freertos-tn/platform/utilities/src/print_scan.s	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/platform\/utilities\/src\/print_scan.s: home\/neuberfra/;"	t
+home/neuberfran/projects/freertos-tn/rtos/FreeRTOS/Source/croutine.c.i	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/rtos\/FreeRTOS\/Source\/croutine.c.i:$/;"	t
+home/neuberfran/projects/freertos-tn/rtos/FreeRTOS/Source/croutine.c.obj	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/rtos\/FreeRTOS\/Source\/croutine.c.obj:$/;"	t
+home/neuberfran/projects/freertos-tn/rtos/FreeRTOS/Source/croutine.c.s	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/rtos\/FreeRTOS\/Source\/croutine.c.s:$/;"	t
+home/neuberfran/projects/freertos-tn/rtos/FreeRTOS/Source/croutine.i	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/rtos\/FreeRTOS\/Source\/croutine.i: home\/neuberfran\/p/;"	t
+home/neuberfran/projects/freertos-tn/rtos/FreeRTOS/Source/croutine.obj	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/rtos\/FreeRTOS\/Source\/croutine.obj: home\/neuberfran\//;"	t
+home/neuberfran/projects/freertos-tn/rtos/FreeRTOS/Source/croutine.s	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/rtos\/FreeRTOS\/Source\/croutine.s: home\/neuberfran\/p/;"	t
+home/neuberfran/projects/freertos-tn/rtos/FreeRTOS/Source/event_groups.c.i	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/rtos\/FreeRTOS\/Source\/event_groups.c.i:$/;"	t
+home/neuberfran/projects/freertos-tn/rtos/FreeRTOS/Source/event_groups.c.obj	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/rtos\/FreeRTOS\/Source\/event_groups.c.obj:$/;"	t
+home/neuberfran/projects/freertos-tn/rtos/FreeRTOS/Source/event_groups.c.s	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/rtos\/FreeRTOS\/Source\/event_groups.c.s:$/;"	t
+home/neuberfran/projects/freertos-tn/rtos/FreeRTOS/Source/event_groups.i	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/rtos\/FreeRTOS\/Source\/event_groups.i: home\/neuberfra/;"	t
+home/neuberfran/projects/freertos-tn/rtos/FreeRTOS/Source/event_groups.obj	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/rtos\/FreeRTOS\/Source\/event_groups.obj: home\/neuberf/;"	t
+home/neuberfran/projects/freertos-tn/rtos/FreeRTOS/Source/event_groups.s	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/rtos\/FreeRTOS\/Source\/event_groups.s: home\/neuberfra/;"	t
+home/neuberfran/projects/freertos-tn/rtos/FreeRTOS/Source/list.c.i	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/rtos\/FreeRTOS\/Source\/list.c.i:$/;"	t
+home/neuberfran/projects/freertos-tn/rtos/FreeRTOS/Source/list.c.obj	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/rtos\/FreeRTOS\/Source\/list.c.obj:$/;"	t
+home/neuberfran/projects/freertos-tn/rtos/FreeRTOS/Source/list.c.s	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/rtos\/FreeRTOS\/Source\/list.c.s:$/;"	t
+home/neuberfran/projects/freertos-tn/rtos/FreeRTOS/Source/list.i	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/rtos\/FreeRTOS\/Source\/list.i: home\/neuberfran\/proje/;"	t
+home/neuberfran/projects/freertos-tn/rtos/FreeRTOS/Source/list.obj	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/rtos\/FreeRTOS\/Source\/list.obj: home\/neuberfran\/pro/;"	t
+home/neuberfran/projects/freertos-tn/rtos/FreeRTOS/Source/list.s	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/rtos\/FreeRTOS\/Source\/list.s: home\/neuberfran\/proje/;"	t
+home/neuberfran/projects/freertos-tn/rtos/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c.i	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/rtos\/FreeRTOS\/Source\/portable\/GCC\/ARM_CM4F\/port.c/;"	t
+home/neuberfran/projects/freertos-tn/rtos/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c.obj	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/rtos\/FreeRTOS\/Source\/portable\/GCC\/ARM_CM4F\/port.c/;"	t
+home/neuberfran/projects/freertos-tn/rtos/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c.s	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/rtos\/FreeRTOS\/Source\/portable\/GCC\/ARM_CM4F\/port.c/;"	t
+home/neuberfran/projects/freertos-tn/rtos/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.i	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/rtos\/FreeRTOS\/Source\/portable\/GCC\/ARM_CM4F\/port.i/;"	t
+home/neuberfran/projects/freertos-tn/rtos/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.obj	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/rtos\/FreeRTOS\/Source\/portable\/GCC\/ARM_CM4F\/port.o/;"	t
+home/neuberfran/projects/freertos-tn/rtos/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.s	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/rtos\/FreeRTOS\/Source\/portable\/GCC\/ARM_CM4F\/port.s/;"	t
+home/neuberfran/projects/freertos-tn/rtos/FreeRTOS/Source/portable/MemMang/heap_2.c.i	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/rtos\/FreeRTOS\/Source\/portable\/MemMang\/heap_2.c.i:$/;"	t
+home/neuberfran/projects/freertos-tn/rtos/FreeRTOS/Source/portable/MemMang/heap_2.c.obj	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/rtos\/FreeRTOS\/Source\/portable\/MemMang\/heap_2.c.obj/;"	t
+home/neuberfran/projects/freertos-tn/rtos/FreeRTOS/Source/portable/MemMang/heap_2.c.s	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/rtos\/FreeRTOS\/Source\/portable\/MemMang\/heap_2.c.s:$/;"	t
+home/neuberfran/projects/freertos-tn/rtos/FreeRTOS/Source/portable/MemMang/heap_2.i	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/rtos\/FreeRTOS\/Source\/portable\/MemMang\/heap_2.i: ho/;"	t
+home/neuberfran/projects/freertos-tn/rtos/FreeRTOS/Source/portable/MemMang/heap_2.obj	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/rtos\/FreeRTOS\/Source\/portable\/MemMang\/heap_2.obj: /;"	t
+home/neuberfran/projects/freertos-tn/rtos/FreeRTOS/Source/portable/MemMang/heap_2.s	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/rtos\/FreeRTOS\/Source\/portable\/MemMang\/heap_2.s: ho/;"	t
+home/neuberfran/projects/freertos-tn/rtos/FreeRTOS/Source/queue.c.i	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/rtos\/FreeRTOS\/Source\/queue.c.i:$/;"	t
+home/neuberfran/projects/freertos-tn/rtos/FreeRTOS/Source/queue.c.obj	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/rtos\/FreeRTOS\/Source\/queue.c.obj:$/;"	t
+home/neuberfran/projects/freertos-tn/rtos/FreeRTOS/Source/queue.c.s	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/rtos\/FreeRTOS\/Source\/queue.c.s:$/;"	t
+home/neuberfran/projects/freertos-tn/rtos/FreeRTOS/Source/queue.i	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/rtos\/FreeRTOS\/Source\/queue.i: home\/neuberfran\/proj/;"	t
+home/neuberfran/projects/freertos-tn/rtos/FreeRTOS/Source/queue.obj	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/rtos\/FreeRTOS\/Source\/queue.obj: home\/neuberfran\/pr/;"	t
+home/neuberfran/projects/freertos-tn/rtos/FreeRTOS/Source/queue.s	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/rtos\/FreeRTOS\/Source\/queue.s: home\/neuberfran\/proj/;"	t
+home/neuberfran/projects/freertos-tn/rtos/FreeRTOS/Source/tasks.c.i	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/rtos\/FreeRTOS\/Source\/tasks.c.i:$/;"	t
+home/neuberfran/projects/freertos-tn/rtos/FreeRTOS/Source/tasks.c.obj	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/rtos\/FreeRTOS\/Source\/tasks.c.obj:$/;"	t
+home/neuberfran/projects/freertos-tn/rtos/FreeRTOS/Source/tasks.c.s	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/rtos\/FreeRTOS\/Source\/tasks.c.s:$/;"	t
+home/neuberfran/projects/freertos-tn/rtos/FreeRTOS/Source/tasks.i	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/rtos\/FreeRTOS\/Source\/tasks.i: home\/neuberfran\/proj/;"	t
+home/neuberfran/projects/freertos-tn/rtos/FreeRTOS/Source/tasks.obj	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/rtos\/FreeRTOS\/Source\/tasks.obj: home\/neuberfran\/pr/;"	t
+home/neuberfran/projects/freertos-tn/rtos/FreeRTOS/Source/tasks.s	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/rtos\/FreeRTOS\/Source\/tasks.s: home\/neuberfran\/proj/;"	t
+home/neuberfran/projects/freertos-tn/rtos/FreeRTOS/Source/timers.c.i	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/rtos\/FreeRTOS\/Source\/timers.c.i:$/;"	t
+home/neuberfran/projects/freertos-tn/rtos/FreeRTOS/Source/timers.c.obj	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/rtos\/FreeRTOS\/Source\/timers.c.obj:$/;"	t
+home/neuberfran/projects/freertos-tn/rtos/FreeRTOS/Source/timers.c.s	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/rtos\/FreeRTOS\/Source\/timers.c.s:$/;"	t
+home/neuberfran/projects/freertos-tn/rtos/FreeRTOS/Source/timers.i	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/rtos\/FreeRTOS\/Source\/timers.i: home\/neuberfran\/pro/;"	t
+home/neuberfran/projects/freertos-tn/rtos/FreeRTOS/Source/timers.obj	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/rtos\/FreeRTOS\/Source\/timers.obj: home\/neuberfran\/p/;"	t
+home/neuberfran/projects/freertos-tn/rtos/FreeRTOS/Source/timers.s	armgcc/Makefile	/^home\/neuberfran\/projects\/freertos-tn\/rtos\/FreeRTOS\/Source\/timers.s: home\/neuberfran\/pro/;"	t
+info_arch	armgcc/CMakeFiles/3.24.1/CompilerIdC/CMakeCCompilerId.c	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v	typeref:typename:char const *
+info_arch	armgcc/CMakeFiles/3.24.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v	typeref:typename:char const *
+info_compiler	armgcc/CMakeFiles/3.24.1/CompilerIdC/CMakeCCompilerId.c	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v	typeref:typename:char const *
+info_compiler	armgcc/CMakeFiles/3.24.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v	typeref:typename:char const *
+info_cray	armgcc/CMakeFiles/3.24.1/CompilerIdC/CMakeCCompilerId.c	/^char const *info_cray = "INFO" ":" "compiler_wrapper[CrayPrgEnv]";$/;"	v	typeref:typename:char const *
+info_cray	armgcc/CMakeFiles/3.24.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const *info_cray = "INFO" ":" "compiler_wrapper[CrayPrgEnv]";$/;"	v	typeref:typename:char const *
+info_language_extensions_default	armgcc/CMakeFiles/3.24.1/CompilerIdC/CMakeCCompilerId.c	/^const char* info_language_extensions_default = "INFO" ":" "extensions_default["$/;"	v	typeref:typename:const char *
+info_language_extensions_default	armgcc/CMakeFiles/3.24.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^const char* info_language_extensions_default = "INFO" ":" "extensions_default["$/;"	v	typeref:typename:const char *
+info_language_standard_default	armgcc/CMakeFiles/3.24.1/CompilerIdC/CMakeCCompilerId.c	/^const char* info_language_standard_default =$/;"	v	typeref:typename:const char *
+info_language_standard_default	armgcc/CMakeFiles/3.24.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^const char* info_language_standard_default = "INFO" ":" "standard_default["$/;"	v	typeref:typename:const char *
+info_platform	armgcc/CMakeFiles/3.24.1/CompilerIdC/CMakeCCompilerId.c	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v	typeref:typename:char const *
+info_platform	armgcc/CMakeFiles/3.24.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v	typeref:typename:char const *
+info_simulate	armgcc/CMakeFiles/3.24.1/CompilerIdC/CMakeCCompilerId.c	/^char const* info_simulate = "INFO" ":" "simulate[" SIMULATE_ID "]";$/;"	v	typeref:typename:char const *
+info_simulate	armgcc/CMakeFiles/3.24.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_simulate = "INFO" ":" "simulate[" SIMULATE_ID "]";$/;"	v	typeref:typename:char const *
+info_simulate_version	armgcc/CMakeFiles/3.24.1/CompilerIdC/CMakeCCompilerId.c	/^char const info_simulate_version[] = {$/;"	v	typeref:typename:char const[]
+info_simulate_version	armgcc/CMakeFiles/3.24.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_simulate_version[] = {$/;"	v	typeref:typename:char const[]
+info_version	armgcc/CMakeFiles/3.24.1/CompilerIdC/CMakeCCompilerId.c	/^char const info_version[] = {$/;"	v	typeref:typename:char const[]
+info_version	armgcc/CMakeFiles/3.24.1/CompilerIdC/CMakeCCompilerId.c	/^char const* info_version = "INFO" ":" "compiler_version[" COMPILER_VERSION "]";$/;"	v	typeref:typename:char const *
+info_version	armgcc/CMakeFiles/3.24.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_version[] = {$/;"	v	typeref:typename:char const[]
+info_version	armgcc/CMakeFiles/3.24.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_version = "INFO" ":" "compiler_version[" COMPILER_VERSION "]";$/;"	v	typeref:typename:char const *
+info_version_internal	armgcc/CMakeFiles/3.24.1/CompilerIdC/CMakeCCompilerId.c	/^char const info_version_internal[] = {$/;"	v	typeref:typename:char const[]
+info_version_internal	armgcc/CMakeFiles/3.24.1/CompilerIdC/CMakeCCompilerId.c	/^char const* info_version_internal = "INFO" ":" "compiler_version_internal[" COMPILER_VERSION_INT/;"	v	typeref:typename:char const *
+info_version_internal	armgcc/CMakeFiles/3.24.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_version_internal[] = {$/;"	v	typeref:typename:char const[]
+info_version_internal	armgcc/CMakeFiles/3.24.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_version_internal = "INFO" ":" "compiler_version_internal[" COMPILER_VERSION_INT/;"	v	typeref:typename:char const *
+main	armgcc/CMakeFiles/3.24.1/CompilerIdC/CMakeCCompilerId.c	/^int main(argc, argv) int argc; char *argv[];$/;"	f
+main	armgcc/CMakeFiles/3.24.1/CompilerIdC/CMakeCCompilerId.c	/^void main() {}$/;"	f	typeref:typename:void
+main	armgcc/CMakeFiles/3.24.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^int main(int argc, char* argv[])$/;"	f	typeref:typename:int
+main	armgcc/CMakeFiles/feature_tests.cxx	/^int main(int argc, char** argv) { (void)argv; return features[argc]; }$/;"	f	typeref:typename:int
+main	str_echo_rpmsglite.c	/^int main(void)$/;"	f	typeref:typename:int
+preinstall	armgcc/Makefile	/^preinstall: all$/;"	t
+preinstall/fast	armgcc/Makefile	/^preinstall\/fast:$/;"	t
+qnxnto	armgcc/CMakeFiles/3.24.1/CompilerIdC/CMakeCCompilerId.c	/^char const* qnxnto = "INFO" ":" "qnxnto[]";$/;"	v	typeref:typename:char const *
+qnxnto	armgcc/CMakeFiles/3.24.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* qnxnto = "INFO" ":" "qnxnto[]";$/;"	v	typeref:typename:char const *
+rebuild_cache	armgcc/Makefile	/^rebuild_cache:$/;"	t
+rebuild_cache/fast	armgcc/Makefile	/^rebuild_cache\/fast: rebuild_cache$/;"	t
+rpmsg_str_echo_rpmsglite_example	armgcc/Makefile	/^rpmsg_str_echo_rpmsglite_example: cmake_check_build_system$/;"	t
+rpmsg_str_echo_rpmsglite_example/fast	armgcc/Makefile	/^rpmsg_str_echo_rpmsglite_example\/fast:$/;"	t
+vPortSVCHandler	FreeRTOSConfig.h	/^#define vPortSVCHandler /;"	d
+volatile	armgcc/CMakeFiles/3.24.1/CompilerIdC/CMakeCCompilerId.c	/^# define volatile$/;"	d	file:
+xPortPendSVHandler	FreeRTOSConfig.h	/^#define xPortPendSVHandler /;"	d
+xPortSysTickHandler	FreeRTOSConfig.h	/^#define xPortSysTickHandler /;"	d
